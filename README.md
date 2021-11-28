@@ -14,3 +14,12 @@
    5、......
 *申请作业*
 
+[飞机建模](https://github.com/ZuanZzz/-_414join/blob/main/%E5%B0%8F%E7%81%B0%E6%9C%BA.jpg)
+[小黄人建模](https://github.com/ZuanZzz/-_414join/blob/main/%E5%B0%8F%E9%BB%84%E4%BA%BA.jpg)
+[小黄人渲染](https://github.com/ZuanZzz/-_414join/blob/main/%E5%B0%8F%E9%BB%84%E4%BA%BA%E6%B8%B2%E6%9F%93%E5%9B%BE.jpg)
+
+建模的软件用的3DsMax建模过程大概用的搭积木的思想，先把原型的各部分拆解开看作基本图形，再用基本去编辑点、线、面等，其中最常用的修改器是FFD，我觉得它对微调形状非常友好。
+渲染用的Cinema 4D，渲染其实都还不学，这仅仅是打光和上色，渲染材质还需要学习。
+
+
+以上就是我的申请，感谢您的耐心阅读，希望得到您的认可，谢谢！
